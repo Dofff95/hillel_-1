@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <h1>Hillel project</h1>
+      <h1>Hello Hillel</h1>
       <Button/>
     </div>
   )
